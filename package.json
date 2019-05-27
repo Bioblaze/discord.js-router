@@ -48,6 +48,7 @@
     "travis-deploy-once": "^5.0.2"
   },
   "scripts": {
+    "gendocs": "documentation build ./lib/index.js -f html -o ./docs/",
     "semantic-release": "semantic-release",
     "travis-deploy-once": "travis-deploy-once"
   },
