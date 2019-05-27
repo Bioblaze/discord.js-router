@@ -22,12 +22,12 @@ $ npm install discord.js-router
 
 ## Information
 
-Documentation on Object Class Structure & Functions can be found at the Official ![Github Pages](https://bioblaze.github.io/discord.js-router/)
-Tutorials, Guides, and More can be Found at the Official ![Github Wiki](https://github.com/Bioblaze/discord.js-router/wiki)
+Documentation on Object Class Structure & Functions can be found at the Official [Github Pages](https://bioblaze.github.io/discord.js-router/)
+Tutorials, Guides, and More can be Found at the Official [Github Wiki](https://github.com/Bioblaze/discord.js-router/wiki)
 
-If any information is Lacking please Post a Question in the ![Github Issues](https://github.com/Bioblaze/discord.js-router/issues) Section.
+If any information is Lacking please Post a Question in the [Github Issues](https://github.com/Bioblaze/discord.js-router/issues) Section.
 
-Example Code can be Found ![master/example](https://github.com/Bioblaze/discord.js-router/tree/master/example)
+Example Code can be Found [master/example](https://github.com/Bioblaze/discord.js-router/tree/master/example)
 
 Example Project: <In Development>
 
