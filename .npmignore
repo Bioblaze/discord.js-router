@@ -2,3 +2,6 @@ coverage
 src
 test
 .idea
+.github
+docs
+example
