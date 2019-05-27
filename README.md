@@ -3,10 +3,10 @@
 ![Build Status](https://img.shields.io/travis/Bioblaze/discord.js-router.svg)
 [![semantic-release](https://img.shields.io/badge/%20%20%F0%9F%93%A6%F0%9F%9A%80-semantic--release-e10079.svg)](https://github.com/semantic-release/semantic-release)
 
-![Downloads](https://img.shields.io/npm/dm/discord.js-router.svg)
-![Downloads](https://img.shields.io/npm/dt/discord.js-router.svg)
-![npm version](https://img.shields.io/npm/v/discord.js-router.svg)
-![License](https://img.shields.io/npm/l/discord.js-router.svg)
+[![Downloads](https://img.shields.io/npm/dm/discord.js-router.svg)](https://www.npmjs.com/package/discord.js-router)
+[![Downloads](https://img.shields.io/npm/dt/discord.js-router.svg)](https://www.npmjs.com/package/discord.js-router)
+[![npm version](https://img.shields.io/npm/v/discord.js-router.svg)](https://www.npmjs.com/package/discord.js-router)
+[![License](https://img.shields.io/npm/l/discord.js-router.svg)](https://github.com/Bioblaze/discord.js-router/blob/master/LICENSE)
 
 ![dependencies](https://img.shields.io/david/Bioblaze/discord.js-router.svg)
 ![dev dependencies](https://img.shields.io/david/dev/Bioblaze/discord.js-router.svg)
